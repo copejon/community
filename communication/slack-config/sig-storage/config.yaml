@@ -1,4 +1,5 @@
 channels:
+  - name: cosi
   - name: csi
     id: C8EJ01Z46
   - name: csi-migration

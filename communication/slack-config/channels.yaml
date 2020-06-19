@@ -49,6 +49,7 @@ channels:
   - name: compliance-hipaa
   - name: contour
   - name: contributor-summit
+  - name: cosi
   - name: crash-diagnostics
   - name: crd-installation
   - name: crio
